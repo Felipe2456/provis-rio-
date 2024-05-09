@@ -1,0 +1,3 @@
+a linguagem go também conhecida como Golang, foi desenvolvida pela google feita para ser uma linguagem de alto nível eficiente e fácil de usar,
+ com foco  especial em suportar concorrência e fácil escrita dos códigos .Ela ficou bem conhecida por suas capacidade de compilação rápida. 
+ Por já ter sido feita pensando em lidar com concorrência  ela possui nativamente os goroutines que são pequenas unidades de execução que podem ser executadas em paralelo
